@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 1,
+      "text": "This is item 1! From json file!"
+    },
+    {
+      "id": "2",
+      "rating": 3,
+      "text": "This is item 2! With a rating of 3"
+    },
+    {
+      "id": "f6f6",
+      "text": "sdfasdfdasfdsafs",
+      "rating": 5
+    },
+    {
+      "text": "id is \"5b70\" and lets change",
+      "rating": 10,
+      "id": "5b70"
+    }
+  ]
+}
